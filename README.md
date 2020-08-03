@@ -3,5 +3,6 @@ one
 public class helloworld{
 public static void main(String arg[]){
     System.output.println("helloworld");
+    System.output.println("helloworld");
 }
 }
